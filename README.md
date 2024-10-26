@@ -10,6 +10,5 @@
 | Topic                    | Resource Type     | Title                            | Key Takeaways                                    | Link                              |
 |--------------------------|-------------------|----------------------------------|--------------------------------------------------|-----------------------------------
 | Vector APIs             | Youtube Video     |New Vector APIs coming to Java - Java 23 update | Vector API, Syntax | [WatchHere](https://www.youtube.com/watch?v=H_58SyQfl_U)
-
 | Vector APIs             | Youtube Video     |New Vector APIs coming to Java - Java 23 update | Vector API, Syntax | [WatchHere](https://www.youtube.com/watch?v=H_58SyQfl_U)
 
