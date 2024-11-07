@@ -4,10 +4,12 @@
 |--------------------------|-------------------|----------------------------------|--------------------------------------------------|-----------------------------------
 | Vector APIs             | Youtube Video     |New Vector APIs coming to Java - Java 23 update | Performing a single operation on a set of data, Vector API, Syntax | [Watch Here](https://www.youtube.com/watch?v=H_58SyQfl_U)
 
+
 ## Tech Talks
 | Topic                    | Resource Type     | Title                            | Key Takeaways                                    | Link                              |
 |--------------------------|-------------------|----------------------------------|--------------------------------------------------|-----------------------------------
- 
+| Garbage Collection       | Youtube           |ZGC Automatic Heap Sizing         | Zero configuration for ZGC, working on ways that it can automatically adjust the heap size | [Watch Here](https://www.youtube.com/watch?v=wcENUyuzMNM)
+
 
 ## Courses
 | Topic                    | Resource Type     | Title                            | Key Takeaways                                    | Link                              |
