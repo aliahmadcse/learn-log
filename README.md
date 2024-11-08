@@ -9,7 +9,7 @@
 | Topic                    | Resource Type     | Title                            | Key Takeaways                                    | Link                              |
 |--------------------------|-------------------|----------------------------------|--------------------------------------------------|-----------------------------------
 | Garbage Collection       | Youtube           |ZGC Automatic Heap Sizing         | Zero configuration for ZGC, working on ways that it can automatically adjust the heap size | [Watch Here](https://www.youtube.com/watch?v=wcENUyuzMNM)
-| Tools and Libraries      | Devoxx            |Java's Hidden Gems: Tools and Libraries by Johan Janssen         | Different tools and Libraries in the Java ecosystem like Awaitility, ArchUnit, Jococo, SparArchUnitk and much more | [Watch Here](https://www.youtube.com/watch?v=bOEPqLyazAk) | [Github](https://github.com/johanjanssen/JavaHiddenGems)
+| Tools and Libraries      | Devoxx            |Java's Hidden Gems: Tools and Libraries by Johan Janssen         | Different tools and Libraries in the Java ecosystem like Awaitility, ArchUnit, Jococo, SparArchUnitk and much more | [Watch Here](https://www.youtube.com/watch?v=bOEPqLyazAk) / [Github](https://github.com/johanjanssen/JavaHiddenGems)
 
 
 ## Courses
