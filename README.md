@@ -17,8 +17,6 @@
 |--------------------------|-------------------|----------------------------------|--------------------------------------------------|-----------------------------------
 | GoLang             | LinkedIn Learning     |Leaning Go | Go basic syntax, data structures, conditionals, files, json and the web | [Check Here](https://www.linkedin.com/learning/learning-go-8399317/develop-basic-programs-with-go)
 | GoLang             | LinkedIn Learning     |Transition from Java to Go | Learning Go constructs in comparison to Java, Interfaces and unit testing | [Check Here](https://www.linkedin.com/learning/transition-from-java-to-go/intro)
-https://github.com/johanjanssen/JavaHiddenGems
-https://github.com/johanjanssen/JavaHiddenGems
 
 ## Miscellaneous
 
