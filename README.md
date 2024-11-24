@@ -18,6 +18,13 @@
 | GoLang             | LinkedIn Learning     |Leaning Go | Go basic syntax, data structures, conditionals, files, json and the web | [Check Here](https://www.linkedin.com/learning/learning-go-8399317/develop-basic-programs-with-go)
 | GoLang             | LinkedIn Learning     |Transition from Java to Go | Learning Go constructs in comparison to Java, Interfaces and unit testing | [Check Here](https://www.linkedin.com/learning/transition-from-java-to-go/intro)
 
+## Podcasts
+| Topic                    | Resource Type     | Title                            | Key Takeaways                                    | Link                              |
+|--------------------------|-------------------|----------------------------------|--------------------------------------------------|-----------------------------------
+| Eclipse Collections             | Podcast     |40 years of code and the passion behind Eclipse Collections
+ | A more efficient collection framework than Native Java Collections, the Eclipse Collections Journey | [Check Here](https://www.youtube.com/watch?v=n321I2_QhKc)
+
+
 ## Miscellaneous
 
 | Topic                    | Resource Type     | Title                            | Key Takeaways                                    | Link                              |
