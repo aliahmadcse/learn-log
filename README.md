@@ -19,6 +19,12 @@
 | GoLang             | LinkedIn Learning     |Transition from Java to Go | Learning Go constructs in comparison to Java, Interfaces and unit testing | [Check Here](https://www.linkedin.com/learning/transition-from-java-to-go/intro)
 
 
+## System Design
+| Topic                    | Resource Type     | Title                            | Key Takeaways                                    | Link                              |
+|--------------------------|-------------------|----------------------------------|--------------------------------------------------|-----------------------------------
+| Booking System           | Youtube Video     |System Design of a Ticket Booking System: BookMyShow | Designing a booking system keeping in mind the concurrent booking | [Check Here](https://www.youtube.com/watch?v=ohdu6TUoE5s)
+
+
 ## Podcasts
 | Topic                    | Resource Type     | Title                            | Key Takeaways                                    | Link                              |
 |--------------------------|-------------------|----------------------------------|--------------------------------------------------|-----------------------------------
